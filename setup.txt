@@ -1,6 +1,8 @@
 Here's a list of things to set up for this new computer. 
 + Download MatLab
-- Change fonts
+- Fix MatLab shortcut
++ Change fonts
+- Check if fonts are actually right
 - Update .bashrc and .vimrc
 - Fix Google Chrome to not require a pw
 - Set up latex shortcuts 
@@ -10,4 +12,4 @@ Here's a list of things to set up for this new computer.
 - Add Vim plugins 
 - Add .tex support
 - Add UltiSnips
-- setup sxhkd
+- setup sxhkd - upload sxhkd to github 

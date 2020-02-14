@@ -1,0 +1,13 @@
+Here's a list of things to set up for this new computer. 
++ Download MatLab
+- Change fonts
+- Update .bashrc and .vimrc
+- Fix Google Chrome to not require a pw
+- Set up latex shortcuts 
+- Set up file management system
++ Switch caps lock and escape keys
+- Upgrade touchpad 
+- Add Vim plugins 
+- Add .tex support
+- Add UltiSnips
+- setup sxhkd
